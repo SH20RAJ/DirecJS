@@ -1,9 +1,9 @@
 /*
  * DirecJS Version 2.0 (Always Updating Latest on Github ) - First and Last Version name
  *
- *Website :- direcjs.blogspot.com
- Functions to add...
- 1.prepend, clone,
+ * Website :- https://sh20raj.github.io/DirecJS/
+ * 
+ *
  */
 //functions
 //Add this Function to use $ instead of dj..... let $ = (a) => dj(a);
